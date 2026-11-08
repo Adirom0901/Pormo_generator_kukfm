@@ -1,0 +1,4 @@
+streamlit
+llama-cpp-python      # only for the "Local GGUF model" option
+huggingface-hub       # downloads the model from Hugging Face the first time
+langgraph
